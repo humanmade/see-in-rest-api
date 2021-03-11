@@ -1,0 +1,22 @@
+# General backup/log/swap files
+*~
+*.DS_Store
+*.bak
+*.log
+*.out
+*.so
+*.swp
+
+# Composer
+/vendor/
+
+# PHP_CodeSniffer
+/phpcs.xml
+
+# PHPUnit
+/coverage/
+.phpunit.result.cache
+
+
+# Git
+!.gitkeep
