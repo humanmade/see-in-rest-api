@@ -13,7 +13,7 @@
  * Description:       Quickly request the current resource off the WordPress REST API via the WordPress admin bar.
  * Version:           1.0.0
  * Requires at least: 5.5
- * Requires PHP:      7.3
+ * Requires PHP:      7.2
  * Author:            Human Made
  * Author URI:        https://humanmade.com/
  * Text Domain:       see-in-rest-api
