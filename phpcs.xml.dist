@@ -11,7 +11,7 @@
 	<config name="ignore_warnings_on_exit" value="1" />
 
 	<!-- Check for PHP cross-version compatibility. -->
-	<config name="testVersion" value="7.3-" />
+	<config name="testVersion" value="7.2-" />
 
 	<!-- Exclude external libraries, tests and generated files. -->
 	<exclude-pattern>*/coverage/*</exclude-pattern>

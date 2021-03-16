@@ -15,13 +15,13 @@
         "source": "https://github.com/humanmade/see-in-rest-api"
     },
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.2",
         "composer/installers": "^1.9"
     },
     "require-dev": {
         "brain/monkey": "^2.6",
         "humanmade/coding-standards": "^1.1",
-        "mockery/mockery": "^1.4",
+        "mockery/mockery": "^1.3",
         "phpunit/phpunit": "^8.5"
     },
     "autoload-dev": {
@@ -34,7 +34,7 @@
     },
     "config": {
         "platform": {
-            "php": "7.3"
+            "php": "7.2"
         },
         "sort-packages": true
     },

@@ -22,7 +22,7 @@ If a resource is not available or readable, you will find out after you clicked 
 
 **Requirements:**
 
-- PHP 7.3 or higher;
+- PHP 7.2 or higher;
 - WordPress 5.5 or higher.
 
 Install with [Composer](https://getcomposer.org):
